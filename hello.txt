@@ -1,8 +1,0 @@
-UPDATE HAS BEEN MADE LETS SEE
-
-My name is Hamza khan
-<<<<<<< HEAD
-braching of dog
-=======
-Going to do my 2nd commit
->>>>>>> cat
